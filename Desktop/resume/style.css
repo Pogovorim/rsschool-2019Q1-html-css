@@ -1,0 +1,53 @@
+body {
+  font: 100% Arial, Helvetica, sans-serif;
+  min-width: 320px;
+}
+
+.wrapper {
+  width: 1024px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Merienda', cursive;
+}
+
+span {
+    margin-top: 8px;
+    margin-left: 10px;
+    position: absolute;
+    height: 29px;
+}
+
+p {
+  width: 500px;
+  font-family: 'Pathway Gothic One', sans-serif;
+  font-size: 19px;
+}
+
+.logo {
+  width: 50px;
+  border-radius: 50px;
+}
+
+.my-photo {
+position: absolute;
+margin-left: 520px;
+margin-top: -150px;
+width: 320px
+}
+
+.content {
+text-align: justify;
+}
+
+footer {
+  margin: 5px 0px;
+  text-align: center;
+  font-family: 'Kaushan Script', cursive;
+}
